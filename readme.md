@@ -24,7 +24,7 @@
 
 ### 学习总结
 - Transformer, 不过如此~
-- TqZzMiao 猝死于 Transformer
+- TqZzMiao 猝死于 Transformers
 - TqZzQwQ
 
 - 好了, 认真的讲:
